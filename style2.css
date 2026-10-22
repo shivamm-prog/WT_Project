@@ -1,0 +1,78 @@
+body{
+    
+    background-image: url("bg2.png");
+    padding-top: 0px;
+    margin: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.home{
+    padding-top: 270px;;
+}
+.introduction{
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+.profile{
+    float:right;
+    margin-right: 60px;
+    margin-left: 60PX;
+    margin-top: 20px;
+}
+.profile img{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    border: 3px solid#8B0000;
+
+}
+.skill{
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+.tool{
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+.cont{
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(136, 16, 235);
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 40px;
+}
+h2{
+    color: red;
+    font-size: 50px;
+}
+ol{
+    color: rgb(19, 17, 17);
+    font-size: 20px;
+}
+p{
+    font-size:larger;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(2, 2, 2);
+    padding-right: 10px;
+    padding-left: 10px;
+}
+hr{
+    color:black;
+
+}
+.heading{
+    background-color: rgb(207, 243, 0);
+}
+
+.title{
+    background-color: yellow;
+}
